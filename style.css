@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    color:blueviolet;
+    background-color: #f9b984;
+}
+h2{
+    text-align: center;
+    color:rgb(198, 43, 226);
+    background-color: #fab276;
+}
+h3{
+    text-align: center;
+    color:rgb(211, 43, 226);
+    background-color: #f9ad6f;
+}
+h4{
+    text-align: center;
+    color:rgb(226, 43, 144);
+    background-color: #ffa459;
+}
+h5{
+    text-align: center;
+    color:rgb(226, 43, 141);
+    background-color: #f7a059;
+}
+h6{
+    text-align: center;
+    color:rgb(226, 43, 110);
+    background-color: #ff9946;
+}
+
+p{
+    margin: 30px;
+    padding: 10px;
+    border:solid 2px rgb(255, 192, 253);
+    background-color: rgb(240, 164, 255);
+}
+body{
+    background: rgb(157,108,191);
+    background: linear-gradient(90deg, rgba(157,108,191,1) 0%, rgba(255,155,155,1) 50%, rgba(255,198,118,1) 100%);
+}
+divOne {
+border:solid 5px blue;
+background-color: lightgreen;
+text-align:center;
+}
+#p1 {
+    color:blue
+}
+#p2{
+    color:rgb(243, 54, 54)
+}
+#p3 {
+    color:rgb(245, 168, 45)
+}
+apple {
+    color:rgb(180, 180, 247)
+}
+orange{
+    color:pink
+}
+
+/*flex-wrap: can also be nowrap and wrap-reverse; */
